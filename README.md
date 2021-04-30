@@ -1,2 +1,2 @@
 # Applied-AI
-Playground for testing what I learned on Apllied ML/DL
+Playground for testing Apllied ML/DL Codes
